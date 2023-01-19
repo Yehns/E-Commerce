@@ -1,6 +1,7 @@
 # Tourism Analysis
 Project 1 
 Group Members:Paul Roberts, Dale Hancke, Jens Weimann
+
 Day 1: 23 Jan 2023
 - Collect data sources
 - Determine suitability

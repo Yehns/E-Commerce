@@ -8,7 +8,7 @@ Day 1: 23 Jan 2023
 - Look at potential project topics
 
 Day 2: 24 Jan 2023
-- Start data consildation
+- Start data consolidation
 - Assemble data
 - Dependencies
 - Determine how we are going to visualise the data

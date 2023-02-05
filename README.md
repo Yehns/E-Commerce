@@ -26,5 +26,7 @@ The main questions we sought to answer were:
 •	How is the tourism market recovering?
 
 Conclusions:
+
 •	Short term arrivals into Australia are increasing but probably won’t be back to pre-covid levels before 2024.
+
 •	The overnight trips within Australia were greatly impacted. While Perth is just back to normal levels, Sydney will probably take another 6 months to return to pre-covid levels

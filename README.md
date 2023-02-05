@@ -1,42 +1,20 @@
 # Tourism Analysis
-Project 1 
-Group Members: Paul Roberts, Dale Hancke, Jens Weimann
 
-Day 1: 23 Jan 2023
-- Collect data sources
-- Determine suitability
-- Look at potential project topics
+Covid-19 affects on the Australian tourism industry
+Project 1 Group Members: Paul Roberts, Dale Hancke, Jens Weimann
 
-Day 2: 24 Jan 2023
-- Start data consolidation
-- Assemble data
-- Dependencies
-- Determine how we are going to visualise the data
-- Data Analysis Workbook 
-- Determine the overview of the story we want to tell (Hypothesis)
+This project looked at how the covid-19 pandemic affected several aspects of the Australian tourism industry. The areas looked at:
+•	Short term visitors into Australia
+•	Overnight trips within Australia
+•	The average number of nights per stay
+•	Tourism affiliated jobs
+•	The total number of tourism jobs in Australia
+The main questions we sought to answer were: 
+•	How the states were impacted?
+•	How various tourism-related industries impacted?
+•	How was the job market impacted here?
+•	How is the tourism market recovering?
 
-Day 3: 30 Jan 2023
-- Working through the data to celan it up and consolidate the Dataframes
-- Finish analysis
-- Coding, coding, coding
-
-Day 4: 31 Jan 2023
-- Coding, coding, coding
-- Tutor assistance (optional)
-
-Day 5: 1 Feb 2023
-- Collate the presentation
-- Sections covered by who
-- Visuals to present
-- Get deliverables set up
-- Practice run
-
-Day 6: 2 Feb 2023
-- Presentation
-
-
-
-
-
-
-
+Conclusions:
+•	Short term arrivals into Australia are increasing but probably won’t be back to pre-covid levels before 2024.
+•	The overnight trips within Australia were greatly impacted. While Perth is just back to normal levels, Sydney will probably take another 6 months to return to pre-covid levels

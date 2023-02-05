@@ -1,6 +1,7 @@
 # Tourism Analysis
 
 Covid-19 affects on the Australian tourism industry
+
 Project 1 Group Members: Paul Roberts, Dale Hancke, Jens Weimann
 
 This project looked at how the covid-19 pandemic affected several aspects of the Australian tourism industry. The areas looked at:
